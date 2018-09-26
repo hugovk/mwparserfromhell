@@ -204,3 +204,4 @@ Python 3 code (via the API_)::
 .. _EarwigBot:              https://github.com/earwig/earwigbot
 .. _Pywikibot:              https://www.mediawiki.org/wiki/Manual:Pywikibot
 .. _API:                    http://mediawiki.org/wiki/API
+
